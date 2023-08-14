@@ -1,1 +1,4 @@
-testings\blog\test\__pycache__
+testings/blog/test/__pycache__
+testings/blog/test/integration/__pycache__
+testings/blog/test/system/__pycache__
+testings/blog/test/unit/__pycache__
