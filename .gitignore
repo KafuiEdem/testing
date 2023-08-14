@@ -1,4 +1,9 @@
-testings/blog/test/__pycache__
-testings/blog/test/integration/__pycache__
-testings/blog/test/system/__pycache__
-testings/blog/test/unit/__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Environments
+.env
+.venv
+env/
+venv/
